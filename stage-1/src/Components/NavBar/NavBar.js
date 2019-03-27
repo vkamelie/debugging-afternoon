@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './NavBar.css';
-import Logo from './../dev-mountain-logo.png'
+import Logo from '/Users/adriannavalois/Desktop/devm1/week4/debugging-afternoon/stage-1/src/Components/NavBar/dev-mountain-logo.png'
 
 class NavBar extends Component {
   render() {
